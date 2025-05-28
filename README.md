@@ -43,7 +43,3 @@ bono-landing-form/
 - **Logo & Images**: Replace image files in the `images/` directory with your own assets.
 - **Styles**: Modify `css/styles.css` to change colors, fonts, spacing, and other stylistic elements.
 - **Content**: Edit `index.html` to update text, form fields, and other content as needed.
-
-## License
-
-This project is open-source and available under the MIT License.
